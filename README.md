@@ -7,7 +7,7 @@
 - Développeur Fullstack React, Node.js
 - Développeur Power Apps
 - Consultant Microsoft Dynamics 365
-- En poste chez IBM
+- En poste chez G2i365
 
 ## `Compétences`
 
@@ -57,10 +57,8 @@
 ## `Statistiques`
 
 ![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Mamednoor&show_icons=true&theme=radical)  
-<img style="margin: 10px" src="https://wakatime.com/share/@MamedNoor/1a1b0c47-6368-4077-aa29-273f266598c9.svg" alt="Coding Language" width="400" />
 
-
-<!-- ![Visitor Count](https://profile-counter.glitch.me/Mamednoor/count.svg) -->
+![Visitor Count](https://profile-counter.glitch.me/Mamednoor/count.svg)
 
 <!--
 **Mamednoor/Mamednoor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
