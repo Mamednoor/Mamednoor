@@ -58,8 +58,7 @@
 
 ![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Mamednoor&show_icons=true&theme=radical)  
 
-## `Nombre de visiteur`  
-
+## `Visite`
 ![Visitor Count](https://profile-counter.glitch.me/Mamednoor/count.svg)
 
 <!--
