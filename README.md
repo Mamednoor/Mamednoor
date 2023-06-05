@@ -5,7 +5,7 @@
 - [Mamed Noor Gohabur](https://mamednoor.netlify.app)
 - Un passionné d'informatique et de développement
 - Développeur Fullstack React, Node.js
-- Développeur Power Apps
+- Développeur Power Platform
 - Consultant Microsoft Dynamics 365
 - En poste chez G2i365
 
@@ -41,10 +41,9 @@
 ### Autres
 
   <div align="center">  
+    <img style="margin: 10px" src="https://github.com/Mamednoor/Mamednoor/blob/main/Microsoft-Power-Platform.jpg" alt="Microsoft Power Platform" height="80" />
     <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" alt="Git" height="50" />
     <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/NewTux.svg/200px-NewTux.svg.png" alt="Linux" height="50" />
-    <img style="margin: 10px" src="https://1cb23u14ys651rrda9238ivs-wpengine.netdna-ssl.com/wp-content/uploads/2021/02/microsoft-dynamics.jpg" alt="Microsoft Dynamics 365" height="50" />
-    <img style="margin: 10px" src="https://www.inway.de/fileadmin/_processed_/3/c/csm_PowerPlatform_Quer_32fc5b0b88.jpg" alt="Microsoft Power Platform" height="50" />
   </div>
 
   </td></tr>
