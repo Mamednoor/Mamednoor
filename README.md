@@ -5,9 +5,9 @@
 - [Mamed Noor Gohabur](https://mamednoor.netlify.app)
 - Un passionné d'informatique et de développement
 - Développeur Fullstack React, Node.js
-- ingénieur Power Platform
+- Ingénieur Power Platform
 - Consultant Microsoft Dynamics 365
-- En poste chez Devoteam
+- En poste chez Malakoff Humanis
 
 ## `Compétences`
 
