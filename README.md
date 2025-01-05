@@ -7,7 +7,7 @@
 - Développeur Fullstack React, Node.js
 - Ingénieur Power Platform
 - Consultant Microsoft Dynamics 365
-- En poste chez Malakoff Humanis
+- En poste chez Malakoff Humanis en tant que Techlead Power Platform
 
 ## `Compétences`
 
